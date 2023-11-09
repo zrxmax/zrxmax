@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">Python developer from Israel</h3>
+<h1 align="center">Hello, I'm Max</h1>
+<h3 align="center">Python/JS Programmer | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zrxmax&label=Profile%20views&color=0e75b6&style=flat" alt="zrxmax" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, CSS, Fast API, Bootstrap, Docker**
 
-- 👯 Please contact me to collaborate.
+- 👯 If you want to collaborate, please **contact me**.
 
 - 👨‍💻 All of my projects are available at **Linked In**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/zrxmax" target="blank" align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="zrxmax" height="30" width="40" /></a>
+<a href="https://t.me/zrxmax" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://codepen.io/zrxmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://dev.to/zrxmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://twitter.com/zrxmax_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zrxmax_" height="30" width="40" /></a>
