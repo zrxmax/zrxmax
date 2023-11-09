@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/zrxmax" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="zrxmax" height="30" width="40" /></a>
+<a href="https://t.me/zrxmax" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://codepen.io/zrxmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://dev.to/zrxmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zrxmax" height="30" width="40" /></a>
 <a href="https://twitter.com/zrxmax_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zrxmax_" height="30" width="40" /></a>
