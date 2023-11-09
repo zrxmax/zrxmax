@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [t.me/xcrypto_dev](t.me/xcrypto_dev)
 
-- 📫 You can contact me by mail **zrxmax@icloud.com**
+- 📫 Contact me by mail **zrxmax@icloud.com**, or socials below
 
 
 <h3 align="left">Languages and Tools:</h3>
