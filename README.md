@@ -38,5 +38,5 @@
 <!-- <a href="https://www.hackerearth.com/zrxmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="zrxmax" height="30" width="40" /></a> -->
 
 <h3 align="left">You can buy me a coffee as well <3:</h3>
-<p>Any crypto network: <code>0x753846BF882046c5Edc3cefED30A4E6Bf8F99999</code></p>
+<p>Any EVM blockchain: <code>0x753846BF882046c5Edc3cefED30A4E6Bf8F99999</code></p>
 <p><a href="https://www.buymeacoffee.com/zrxmax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zrxmax" /></a><a href="https://ko-fi.com/zrxmax"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zrxmax" /></a></p><br><br></p>
